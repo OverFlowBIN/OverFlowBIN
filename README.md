@@ -6,6 +6,6 @@
 
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <br/><br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manonkim&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverFlowBIN&show_icons=true&theme=aura)
 
 </div>
