@@ -1,5 +1,6 @@
-### SKILLS
 <div align="center">
+### SKILLS
+
 <div>
 <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-1C252C?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-7D929E?style=flat-square&logo=styled-components&logoColor=white"/> 
 
