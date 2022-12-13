@@ -6,9 +6,7 @@
   
 </div>
 
-<div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverFlowBIN&layout=compact)
-  
-</div>
+
 
