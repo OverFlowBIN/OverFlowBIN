@@ -2,8 +2,8 @@
 
 <div>
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverFlowBIN&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverFlowBIN&show_icons=true&theme=aura)
   
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverFlowBIN&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverFlowBIN&layout=compact)
 
 </div>
