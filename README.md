@@ -4,6 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverFlowBIN&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverFlowBIN)](https://github.com/OverFlowBIN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overflowbin&layout=compact)](https://github.com/overflowbin/github-readme-stats)
 
 </div>
