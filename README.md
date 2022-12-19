@@ -4,6 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverFlowBIN&show_icons=true&theme=aura)
 
-<a href="https://github.com/overflowbin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overflowbin&layout=compact&theme=nord&hide_border=true" /></a> 
-
 </div>
