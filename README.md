@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+YOUNGBIN+KIM;Full-Stack+Developer+%7C+ERP+Modernization;React+%2B+Spring+Boot+%7C+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+YOUNGBIN+KIM;Full-Stack+Developer)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/OverFlowBIN?tab=followers">
