@@ -66,36 +66,21 @@ location: Seoul, South Korea 🇰🇷
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ 이미지가 깨질 경우: 아래 "직접 배포 가이드"를 참고하여 YOUR_VERCEL_DOMAIN을 교체하세요 -->
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OverFlowBIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=21600" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=OverFlowBIN&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=OverFlowBIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OverFlowBIN&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverFlowBIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=21600" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverFlowBIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages" />
 
 </div>
-
-<!--
-🔧 이미지가 계속 깨질 때 — 직접 Vercel 배포 가이드 (1회 설정, 영구 해결)
-
-1. https://github.com/anuraghazra/github-readme-stats 를 Fork
-2. https://vercel.com 에서 Fork한 리포를 Import
-3. Environment Variables에 PAT_1 = GitHub Personal Access Token (read:user 권한) 추가
-4. Deploy 후 생성된 도메인(예: github-readme-stats-overflowbin.vercel.app)으로
-   위 URL의 "github-readme-stats.vercel.app" 부분을 교체
-
-Streak도 동일:
-1. https://github.com/DenverCoder1/github-readme-streak-stats 를 Fork
-2. Vercel에 배포 후 "streak-stats.demolab.com" 부분을 교체
--->
 
 ---
+
 
 ## 📈 Contribution Graph
 
