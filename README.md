@@ -24,12 +24,6 @@
 ```yaml
 name: YOUNGBIN KIM
 location: Seoul, South Korea 🇰🇷
-role: Part Lead (파트장) @ FINELAB
-current_focus:
-  - Next-Gen ERP Modernization (MyBuilder XML → React + Spring Boot)
-  - AI-powered Development Workflows
-  - Team Growth & Technical Leadership
-fun_fact: I play League of Legends as ADC 🎮
 ```
 
 ---
@@ -94,35 +88,6 @@ fun_fact: I play League of Legends as ADC 🎮
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OverFlowBIN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=OverFlowBIN&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🔥 Current Focus
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>🏗️ ERP Modernization</strong><br/>
-      <sub>MyBuilder XML + Spring 3.0 → React + Spring Boot</sub><br/>
-      <sub>2,283+ screens migration in progress</sub>
-    </td>
-    <td align="center" width="50%">
-      <strong>🤖 AI-Driven Development</strong><br/>
-      <sub>Claude API Code Review System</sub><br/>
-      <sub>Meeting Automation with Gemini + n8n</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
